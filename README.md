@@ -4,9 +4,11 @@
 
 * Minha linguagem de programação principal é C.
 
-* Sou bolsista do PET Computação da UFPel.
+* Atualmente, sou bolsista do PET Computação da UFPel.
 
 * Atuo como voluntária em um grupo de pesquisa voltado à alfabetização de crianças com necessidades especiais.
+  
+* Sou apaixonada por matemática, raciocínio lógico e conhecimento em geral.
 
 <!--
 **duhdah/duhdah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
