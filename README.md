@@ -1,4 +1,10 @@
-## Hi there 👋
+## 💜 Olá, meu nome é Eduarda!
+
+Estou cursando o 3º semestre do curso de Ciência da Computação na Universidade Federal de Pelotas.
+
+Minha linguagem de programação principal é C.
+
+Sou bolsista do PET Computação da UFPel e atuo como voluntária em um grupo de pesquisa voltado à alfabetização de crianças com necessidades especiais.
 
 <!--
 **duhdah/duhdah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
