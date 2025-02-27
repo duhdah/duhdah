@@ -1,12 +1,12 @@
 ## 💜 Olá, meu nome é Eduarda!
 
-* Estou cursando o 3º semestre do curso de Ciência da Computação na Universidade Federal de Pelotas.
+* Estou cursando o 4º semestre do curso de Ciência da Computação na Universidade Federal de Pelotas.
 
 * Minha linguagem de programação principal é C.
 
 * Atualmente, sou bolsista do PET Computação da UFPel.
 
-* Atuo como voluntária em um grupo de pesquisa voltado à alfabetização de crianças com necessidades especiais.
+* Atuo como voluntária em um grupo de pesquisa voltado à alfabetização de crianças com necessidades específicas.
   
 * Sou apaixonada por matemática, raciocínio lógico e conhecimento em geral.
 
