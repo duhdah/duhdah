@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é Eduarda!
 
-* Estou cursando o 4º semestre do curso de Ciência da Computação na Universidade Federal de Pelotas.
+* Estou cursando o 5º semestre do curso de Ciência da Computação na Universidade Federal de Pelotas.
 
 * Minha linguagem de programação principal é C.
 
